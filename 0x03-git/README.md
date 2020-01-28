@@ -1,2 +1,1 @@
-his is a project about the use of git and its commands
-
+This is a project about git and its configuration
