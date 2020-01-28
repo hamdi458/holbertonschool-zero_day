@@ -1,0 +1,1 @@
+This is a project about git and its configuration

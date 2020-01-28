@@ -1,0 +1,1 @@
+This is a project about vim and its configuration
